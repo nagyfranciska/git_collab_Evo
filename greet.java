@@ -1,5 +1,9 @@
 public class Greeting {
   public static void main(String[] args) {
-    System.out.println("Hiiiiii!");
+
+    String name = "Evo";
+    String verb = "run";
+
+    System.out.println(verb + ", " + name + ", " + verb + "!!!");
   }
 }
