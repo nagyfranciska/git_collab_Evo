@@ -1,6 +1,6 @@
 public class Count {
   public static void main(String[] args) {
-    count("24");
+    count("30");
   }
 
   public static void count(String age) {
